@@ -1,0 +1,8 @@
+.env
+*.ipynb
+app.log
+buildlog.txt
+__pycache__
+*.zip
+*.libs
+*.so

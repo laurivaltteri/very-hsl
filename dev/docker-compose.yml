@@ -1,0 +1,6 @@
+services:
+ hsl-hfp-service:
+    image: veri-hsl:latest
+    build:
+      context: ..
+      dockerfile: ./build/Dockerfile
